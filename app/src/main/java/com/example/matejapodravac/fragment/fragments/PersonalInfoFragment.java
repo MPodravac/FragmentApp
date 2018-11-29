@@ -30,4 +30,11 @@ public class PersonalInfoFragment extends Fragment {
         etName = inflatedView.findViewById(R.id.etName);
         return inflatedView;
     }
+
+    /*View.OnClickListener clickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+
+        }
+    }*/
 }
